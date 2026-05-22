@@ -12,6 +12,7 @@ venv/
 *.synctex.gz
 
 output/
+base_cv/
 
 # IDE
 .vscode/
