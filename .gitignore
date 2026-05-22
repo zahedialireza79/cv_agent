@@ -17,3 +17,6 @@ base_cv/
 # IDE
 .vscode/
 .idea/
+
+venv/
+agent/
